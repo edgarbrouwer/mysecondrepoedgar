@@ -1,6 +1,4 @@
----
-date: February 2012
----
+
 
  
 
@@ -52,8 +50,8 @@ Universitat Pompeu Fabra, Barcelona (Spain)
 
 Tilburg University
 
-Thesis: \_’Does ambiguity in experimental games and having knowledge of game
-theory influence behavior in a game?’\_
+Thesis: ’Does ambiguity in experimental games and having knowledge of game
+theory influence behavior in a game?’
 
  
 
